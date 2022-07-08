@@ -16,4 +16,14 @@ Estou em busca por me tornar um especialista na área Mobile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonybresolin&layout=compact)](https://github.com/antonybresolin/github-readme-stats)
 
 
+<h3> Sobre mim </h3>
+
+<p>Sempre busquei pelo empreendedorismo, abri varios negócios, felizmente muitos deram errado, porém estes me trouxeram o aprendizado necessário para que conseguisse exercer a melhor performance em minhas atividades. Graças a minha dedicação em melhorar e filosofia de encarar novas oportunidades, com o passar dos anos, aprendi a entender aquilo que meus clientes desejam, entregando a eles, os melhores resultados de seus requerimentos.</p>
+
+<p>Estar em um ambiente de trabalho onde posso ter uma voz ativa em decisões a serem tomadas, me traz conforto e segurança. Pois desta maneira, com minha visão de empreendedor, consigo entregar resultados acima do esperado. Me agrada também estar em companhia com colegas que desejam progredir em sua área, pois, desta forma, o time sempre trará beneficios á empresa.</p>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <b>Atualmente anseio por uma oportunidade de trabalho (JUNIOR) ou estágio remoto na área Mobile</b> em uma empresa que preze pelo desenvolvimento de seus colaboradores.
