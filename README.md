@@ -1,5 +1,5 @@
 <h2> Olá, me chamo Antony, tenho 21 anos e sou formado em T.I!</h2>
-Sou desenvolvedor <b>Java</b> e atualmente estudo <b>Android Mobile (Java/Android Studio) </b> pelos cursos da <b>Alura</b>.
+Sou desenvolvedor <b>Java</b> e atualmente estudo <b>Android Mobile (Java/Kotlin Android Studio) </b> pelos cursos da <b>Udemy, youtube e Alura</b>.
 Estou em busca por me tornar um especialista na área Mobile.
 
 <div dir="auto">
