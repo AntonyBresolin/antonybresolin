@@ -12,8 +12,11 @@ Estou em busca por me tornar um especialista na área Mobile.
 + Lesionei como <b>monitor de linguagem de programação</b> com ênfase em JAVA durante meu curso de formação.
 + Participei como líder de equipe no desenvolvimento de projetos para pequenas startups, em destaque (AondeTem, MetaHero), onde trabalhei com as tecnologias <b>FIREBASE, HTML, CSS, JS</b>.
 
+<div align='center'>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonybresolin&layout=compact)](https://github.com/antonybresolin/github-readme-stats)
 
+  </div>
 
 <h3> Sobre mim </h3>
 
@@ -30,3 +33,5 @@ Estou em busca por me tornar um especialista na área Mobile.
 
 <h2> Meu website portfolio </h2>
 <a href="https://antonybresolin-portfolio.glitch.me/"> https://antonybresolin-portfolio.glitch.me/ </a>
+
+<p align='center'><a href='https://github.com/AntonyBresolin'><img src='https://profile-counter.glitch.me/AntonyBresolin/count.svg' alt='Visitor Count'></a></p>
