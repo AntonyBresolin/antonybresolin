@@ -14,7 +14,9 @@ Estou em busca por me tornar um especialista na área Mobile.
 
 <div align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonybresolin&layout=compact)](https://github.com/antonybresolin/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyBresolin&layout=compact)](https://github.com/AntonyBresolin/github-readme-stats)
+
+
 
   </div>
 
@@ -26,6 +28,9 @@ Estou em busca por me tornar um especialista na área Mobile.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antonybresolin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <b>Atualmente anseio por uma oportunidade de trabalho (JUNIOR) ou estágio remoto na área Mobile</b> em uma empresa que preze pelo desenvolvimento de seus colaboradores.
