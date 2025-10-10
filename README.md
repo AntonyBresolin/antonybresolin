@@ -6,7 +6,7 @@
 - Análise e Desenvolvimento de Sistemas, Biopark Educação (2023-2025)
 - Mestrado em Inteligência Artificial, UFPR (2025 - em andamento)
 
-### Experiência Atual:
+### Experiências:
  - Desenvolvedor Full Stack na Sumersoft Tecnologia Ltda
    - Desenvolvimento de soluções inovadoras em Java e React.
    - Colaboração em projetos de microserviços e integração de APIs.
